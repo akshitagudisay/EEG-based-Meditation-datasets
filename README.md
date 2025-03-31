@@ -23,3 +23,4 @@ A total of 98 participants sat either on a blanket on the floor or on a chair fo
 Participants performed four blocks, 2 meditation blocks interspaced by two thining blocks (in which they are instructed to think actively). Half of the participants start with a meditation block, and half of them start with a thinking block. The first meditation block is a breath counting meditation for all participants. The second block is a tradition-specific meditation - except for the control group, for which it is a breath counting meditation.
 
 Arnaud Delorme and Claire Braboszcz (2021). Meditation vs thinking task. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds003969.v1.0.0
+
